@@ -1,0 +1,14 @@
+# requirements.txt
+#
+# Bu proje için harici (pip ile kurulan) bir Python kütüphanesi bulunmamaktadır.
+#
+# Kullanılan modüller:
+# - tkinter      : Python standart kütüphanesidir (GUI için kullanılır)
+# - dataclasses  : Python 3.7 ve üzeri sürümlerde standarttır
+# - typing       : Python standart kütüphanesidir
+# - Diğer tüm modüller (dfa/, ui/, utils/) proje içi dosyalardır
+#
+# Bu nedenle pip ile ek bir kurulum yapılmasına gerek yoktur.
+#
+# Gerekli Python sürümü:
+# Python >= 3.8
