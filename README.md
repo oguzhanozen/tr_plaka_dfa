@@ -1,4 +1,4 @@
-# TR Plaka DFA / NFA-λ Doğrulama Uygulaması
+# TR Plaka DFA Doğrulama Uygulaması
 
 Bu proje, **Türkiye Cumhuriyeti araç plaka formatını** doğrulamak amacıyla
 **Otomatlar Teorisi** kapsamında bir **DFA** tasarımı ve
@@ -57,7 +57,6 @@ DD ␠ L{1,3} ␠ D{2,4}
 - Başlangıç durumu: `q0`
 - Kabul durumları: `q9`, `q10`, `q11` (çift daire ile gösterilir)
 - Hata durumu: `qDead` (kırmızı çift daire)
-- λ (epsilon) geçişleri desteklenmektedir
 - Geçersiz girişlerde otomata `qDead` durumuna düşer
 
 ---
