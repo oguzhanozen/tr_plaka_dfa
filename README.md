@@ -181,7 +181,7 @@ isteklerini kontrol eder
 
 **dfa_view_tk.py**
 
-Bu dosya DFA/NFA-λ’nın görsel temsilinden sorumludur.
+Bu dosya DFA’nın görsel temsilinden sorumludur.
 
 Tüm durumları ve geçişleri Canvas üzerinde çizer
 
